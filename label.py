@@ -6,4 +6,3 @@ a = [1, 7, 2]
 b = pd.Series(a, index = ["x", "y", "z"])
 
 print(b)
-print(type(a))
