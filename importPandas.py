@@ -8,6 +8,3 @@ data = {
 x = pandas.DataFrame(data)
 
 print(x)
-print(type(x))
-print(type(pandas))
-print(type(data))
